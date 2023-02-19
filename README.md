@@ -29,7 +29,7 @@
 
 ### Dashboard
 
-<img src="https://user-images.githubusercontent.com/83647206/219940251-7a8cc103-a7fb-411d-9bae-4907bff3e478.jpg" width=  height=  > <img src="https://user-images.githubusercontent.com/83647206/219940258-3def7f4e-47de-4e26-acfd-365fcd397f57.jpg" width=  height=  >
+<img src="https://user-images.githubusercontent.com/83647206/219940251-7a8cc103-a7fb-411d-9bae-4907bff3e478.jpg" width=712  height=400  > <img src="https://user-images.githubusercontent.com/83647206/219940258-3def7f4e-47de-4e26-acfd-365fcd397f57.jpg" width=712  height=400  >
 
 ### Value Proposition of the project
 
