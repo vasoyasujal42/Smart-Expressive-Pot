@@ -33,7 +33,8 @@
 
 ### Mobile Dashboard (Apk)
 
-<img src="https://user-images.githubusercontent.com/83647206/219940891-c9e4ec37-5b2a-46d1-895d-f851ac613ba2.jpg" width= 400 height= 800>
+<img src="https://user-images.githubusercontent.com/83647206/219940891-c9e4ec37-5b2a-46d1-895d-f851ac613ba2.jpg" width= 400 height= 700>
+
 ### Value Proposition of the project
 
 - Our product take care the plant as well as reduce the human efforts. 
