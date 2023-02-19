@@ -27,10 +27,13 @@
 - Via emoji expression humans can understand what thing was needed by the plant like water, and sunlight. 
 - Like for the thirsty condition we put emojis if all parameters are fine then the display shows the happy emoji.  
 
-### Dashboard
+### Web Dashboard
 
-<img src="https://user-images.githubusercontent.com/83647206/219940251-7a8cc103-a7fb-411d-9bae-4907bff3e478.jpg" width=534  height=300  > <img src="https://user-images.githubusercontent.com/83647206/219940258-3def7f4e-47de-4e26-acfd-365fcd397f57.jpg" width=534  height=300  >
+<img src="https://user-images.githubusercontent.com/83647206/219940251-7a8cc103-a7fb-411d-9bae-4907bff3e478.jpg" width=400  height=225  > <img src="https://user-images.githubusercontent.com/83647206/219940258-3def7f4e-47de-4e26-acfd-365fcd397f57.jpg" width=400  height=225  >
 
+### Mobile Dashboard (Apk)
+
+<img src="https://user-images.githubusercontent.com/83647206/219940891-c9e4ec37-5b2a-46d1-895d-f851ac613ba2.jpg" >
 ### Value Proposition of the project
 
 - Our product take care the plant as well as reduce the human efforts. 
