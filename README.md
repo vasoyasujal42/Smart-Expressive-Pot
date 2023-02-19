@@ -1,5 +1,5 @@
 # Smart-Expressive-Pot
-"_Bringing your plants to life with smart, expressive pots_"
+#### "_Bringing your plants to life with smart, expressive pots_"
 
 <img src ="https://user-images.githubusercontent.com/83647206/219926655-4d209fb8-d2ac-4ccb-8a87-718523876854.jpg" width = "425" height = "400">  <img src ="https://user-images.githubusercontent.com/83647206/219939344-5445a053-adfc-4705-98be-c910b9ba8975.jpg" width = "350" height = "400">
 
@@ -29,7 +29,7 @@
 
 ### Dashboard
 
-<img src="https://user-images.githubusercontent.com/83647206/219940251-7a8cc103-a7fb-411d-9bae-4907bff3e478.jpg" width=712  height=400  > <img src="https://user-images.githubusercontent.com/83647206/219940258-3def7f4e-47de-4e26-acfd-365fcd397f57.jpg" width=712  height=400  >
+<img src="https://user-images.githubusercontent.com/83647206/219940251-7a8cc103-a7fb-411d-9bae-4907bff3e478.jpg" width=534  height=300  > <img src="https://user-images.githubusercontent.com/83647206/219940258-3def7f4e-47de-4e26-acfd-365fcd397f57.jpg" width=7534  height=300  >
 
 ### Value Proposition of the project
 
